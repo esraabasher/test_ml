@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dec9de47e60446849b0db1a610a86153/artifacts
+end_time: 1727804041021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dec9de47e60446849b0db1a610a86153
+run_name: mlflow_runs
+run_uuid: dec9de47e60446849b0db1a610a86153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727804040847
+status: 3
+tags: []
+user_id: HOME TECHNOLOGY
